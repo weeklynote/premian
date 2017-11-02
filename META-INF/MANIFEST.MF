@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: com.test.instrumentaion.Premain
+Class-Path: lib/asm-5.2.jar lib/asm-tree-5.2.jar 
+Created-By: 1.6.0_29
